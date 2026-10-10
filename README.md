@@ -260,6 +260,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/fathom/9187FF" height="14"/> [Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics) - Access Fathom Analytics data and reports about your sites
 - <img src="https://static.xx.fbcdn.net/rsrc.php/y9/r/tL_v571NdZ0.svg" height="14"/> [Facebook Ads](https://github.com/gomarble-ai/facebook-ads-mcp-server) - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
 - <img src="https://img.icons8.com/?size=48&id=ui4CTPMMDCFh&format=png" height="14"/> [Google Ads](https://github.com/gomarble-ai/google-ads-mcp-server) - MCP server acting as an interface to the Google Ads, enabling programmatic access to Google Ads data and management features.
+- <img src="https://verifypulse-seven.vercel.app/favicon.ico" height="14"/> [VerifyPulse](https://github.com/MohDev212/verifypulse) - Real-time RFC 5322 email verification, live DNS MX lookup, zero-send SMTP handshake, RFC 7208 SPF/DMARC domain security audits, and verified B2B lead datasets (Remote Streamable HTTP MCP at `https://verifypulse-seven.vercel.app/mcp`).
 <br />
 
 ## 📝 <a name="note-taking"></a>Note Taking
